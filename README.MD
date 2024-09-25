@@ -3,6 +3,10 @@
 - Overview of course 
 - Python3  && pip3 installed 
 
+# Week 2
+- Görüntü Okuma, Ekrana yazdırma yapıldı
+- Görüntü kenarlarını algılama, edge detect yapıldı
+- Görüntü grileştirme yapıldı
 
 ### openCV ile ne  yapılabilir? 
 1. Görüntü Okuma ve Yazma
