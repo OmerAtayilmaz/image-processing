@@ -118,3 +118,14 @@
 
     Bir görüntüyü belirli bir eşik değere göre iki farklı renkte görüntüleyebilirsiniz.
 
+
+
+# 3. Hafta
+- Pandas kuruldu
+- BGR - RGB dönüşümü
+- np.array methodu ile görsel iteration yapılır
+- Matrix boyutlarını debugla kontrol et
+- pixelin komuşuluğu* ödev: verilen pixelin komşluğunu bulacağız
+- Diagonel komşuluk
+- 8 komşuluk: 4 + diagonel
+- 

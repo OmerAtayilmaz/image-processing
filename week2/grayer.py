@@ -1,5 +1,7 @@
 import cv2
 import os
+import pandas
+
 
 
 dosya_path = os.path.abspath(__file__)
